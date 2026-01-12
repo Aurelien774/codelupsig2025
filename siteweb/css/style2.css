@@ -1,0 +1,24 @@
+body {
+text-align: justify;
+font-family: Calibri,sans-serif;
+background-color: #F8F7F7;
+color : #1a1a1a ;
+margin-left: 20px;
+}
+h1 {
+    color: #1c6abd; 
+}
+h3 {
+    color: #bd3f1c; 
+}
+li {
+    font-size: 0.9em; 
+}
+.custom {
+    font-weight: bold;         
+    font-size: 1.2em;       
+}
+.custom2 {
+    font-weight: bold;         
+    font-size: 1.1em;       
+}
